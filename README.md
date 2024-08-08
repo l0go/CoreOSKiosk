@@ -1,7 +1,7 @@
 # CoreOS Kiosk
 An example of using Fedora CoreOS as a "Kiosk"
 
-This is based on my previous [BetterbellCoreOS]() project which provides Pipewire support
+This is based on my previous [BetterbellCoreOS](https://github.com/l0go/BetterbellCoreOS) project which provides Pipewire support
 
 ## Usage
 The following instructions assume you are on Fedora or another similar dnf based distro, but it will work on other distros
